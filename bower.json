@@ -1,9 +1,9 @@
 {
   "name": "angular-translate-loader-partial",
-  "version": "0.2.0",
+  "version": "v1.4.0",
   "main": "./angular-translate-loader-partial.s",
   "dependencies": {
-    "angular": "1.0.8",
-    "angular-translate": "~1.1.1"
+    "angular": "1.2.3",
+    "angular-translate": "https://github.com/raghu016/bower-angular-translate.git#v1.4.0"
   }
 }
